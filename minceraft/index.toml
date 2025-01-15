@@ -146,6 +146,11 @@ hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
+metafile = true
+
+[[files]]
 file = "mods/just-mob-heads.pw.toml"
 hash = "c7446d82504c76ff0820702a634530f741a0224aaa1fd1b17c80e1bda70baa7c"
 metafile = true

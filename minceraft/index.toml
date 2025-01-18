@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "6548800a7f3043473a8ea5f0dd07231d890344dd9bf117ef7ea0e98f1057f0fe"
+hash = "bd579053a3e8fb35c2d9146eb31d214c3276a270d3b032f4b087e8042d2ce20d"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+hash = "a1e7268a9c90dd490f8cea23af5526ff22e8ddde2475afab7946e3af82b05e49"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "732bc85d460b6399677e5b768318a0d6cc02822b9d005015ec4e16d9730e260a"
+hash = "33cee9c3a8101ab66a547729c3316607f9aa46a83a1f224f32a2114022db5f0a"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
+hash = "dbe91bc9bc5339ca6664fa5e367335eeb0c82df6912be34f3f7b1e6dca3749bb"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
+hash = "b96bbf63944073e63e84ecbad6c00263f794c8be9b3623d0e62af23328ff4e66"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "8fa4fd7d6da644f5fa814ba598101d3b33cf48a9b0dbabd1377248b495df25d3"
+hash = "fc4ed216a79a9a26afffd05b3d9dcc3bea003cd2e3ed7a4b78cd51201e72b3a3"
 metafile = true
 
 [[files]]
@@ -327,5 +327,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
+hash = "8ff523efcbaf14d3d6ab2b845360f6207029ec30e56b4f8d9f3f478d1deb2fc9"
 metafile = true

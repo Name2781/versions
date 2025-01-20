@@ -11,6 +11,11 @@ hash = "a1e7268a9c90dd490f8cea23af5526ff22e8ddde2475afab7946e3af82b05e49"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
+hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
 metafile = true
 
 [[files]]
@@ -108,6 +113,16 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "1c54a2d4aa370e2bcb086caad15e4fa36bdd98e825ddda5672bbdcd23ad477df"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "dfa3b6fcff71eda68630dbadf8e23d28713e8ee45fd26a4b1df53a98c804575c"
 metafile = true
 
 [[files]]
@@ -313,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "b2af03e504a1827f2f6fc09597e7d51f4ecd64ab1ebb329a9eb9ffb98372673a"
-metafile = true
-
-[[files]]
-file = "mods/yungs-cave-biomes.pw.toml"
-hash = "81db081393ed5183e2fe1815bd0e8927fee60b4f09643567a9da2989ae212878"
 metafile = true
 
 [[files]]

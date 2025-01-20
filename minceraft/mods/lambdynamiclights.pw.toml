@@ -7,6 +7,9 @@ url = "https://cdn.modrinth.com/data/yBW8D80W/versions/mYl4RvKg/lambdynamiclight
 hash-format = "sha512"
 hash = "4870953196e22d02844b76fdcae29823922401a5b238d134374308a256a7ffcfb9f087369fc0ec23b5cb218b995d2efa6f60ac0b99fbf9b298ee7ffbb4f6937a"
 
+[option]
+optional = true
+
 [update]
 [update.modrinth]
 mod-id = "yBW8D80W"

@@ -16,6 +16,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "851741ce6061b1914a07e3a88950e44b06c251c2eb4c11d462423890695f397c"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true

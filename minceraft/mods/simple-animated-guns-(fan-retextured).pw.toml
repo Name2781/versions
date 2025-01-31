@@ -1,0 +1,13 @@
+name = "Simple Animated Guns (Fan Retextured)"
+filename = "SimpleAnimatedGuns-1.20.1-v1.3-BETA-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P8A7NmSu/versions/uo1SNfrO/SimpleAnimatedGuns-1.20.1-v1.3-BETA-2.jar"
+hash-format = "sha512"
+hash = "0f3fad7dfa595d719281f13a99ab292387f9ba20389d47748eea2515c234bf2ece92be54d82e1fb9e125c44c047ffc256a7a207b42c9b30319b19102b0f824fe"
+
+[update]
+[update.modrinth]
+mod-id = "P8A7NmSu"
+version = "uo1SNfrO"

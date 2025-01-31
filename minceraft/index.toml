@@ -86,6 +86,11 @@ hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
 
 [[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "96b0da15913458b2d1aa9ba1f95bb55ea34867625e0018f4c765562dab055313"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "e9ba6ffa1109ca957fef061ef4b41a46300b3cfb382ef4ae24f96c54309fd31f"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
+file = "mods/simple-animated-guns-(fan-retextured).pw.toml"
+hash = "4eeb57bc412b552170fe2c13711c7d4df299f0a00f5e389846b5835b4b00624c"
 metafile = true
 
 [[files]]

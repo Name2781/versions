@@ -16,6 +16,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "971cc8d8f2d07262a8de83696b1be17428b3b8a7de7ceadb6108d1b1ca0e2f3f"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "851741ce6061b1914a07e3a88950e44b06c251c2eb4c11d462423890695f397c"
 metafile = true

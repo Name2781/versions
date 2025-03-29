@@ -1,0 +1,13 @@
+name = "ThreatenGL"
+filename = "threatengl-neoforge-1.3.3-release.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RSFrpoou/versions/hXWTWxOl/threatengl-neoforge-1.3.3-release.1.jar"
+hash-format = "sha512"
+hash = "d149439ab3052c675e8ce7885337c9325fd36975638820a089d492edb46626e5b83e49b8ff6a92a140f4f3dbe8be2ebcb69cea6420d9fea5695c7502abadc9e9"
+
+[update]
+[update.modrinth]
+mod-id = "RSFrpoou"
+version = "hXWTWxOl"

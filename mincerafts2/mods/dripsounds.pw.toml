@@ -1,0 +1,13 @@
+name = "Drip Sounds"
+filename = "Drip Sounds-0.4.0+1.20.4-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/T8MMXTpr/versions/zwFaP9it/Drip%20Sounds-0.4.0%2B1.20.4-NeoForge.jar"
+hash-format = "sha512"
+hash = "ee81b3e7979a7782c93ef23501c77d6bff17a233e1022be2d989efdf0605b796c6a1fa474f53271b0a34cce84f4b0772800b584247ac6a40710e53bdf30b3024"
+
+[update]
+[update.modrinth]
+mod-id = "T8MMXTpr"
+version = "zwFaP9it"

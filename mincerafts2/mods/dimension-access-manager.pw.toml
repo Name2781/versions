@@ -1,0 +1,13 @@
+name = "Dimension Access Manager"
+filename = "DimensionAccessManager-1.20.1-3.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8KrgVqz6/versions/czAukV7w/DimensionAccessManager-1.20.1-3.1.0.jar"
+hash-format = "sha512"
+hash = "ec20015ccef8e733c15d1a27b21e9545a3ee36db6e99f762d8fb06d87833916403fe76a46ec7939a7c0820485ac64f871d9bbee6bfae4f606937a64b38290bfe"
+
+[update]
+[update.modrinth]
+mod-id = "8KrgVqz6"
+version = "czAukV7w"

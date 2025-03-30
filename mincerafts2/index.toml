@@ -231,8 +231,8 @@ hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
 
 [[files]]
-file = "mods/threatengl.pw.toml"
-hash = "a6bc3b144f31ffef49bf72e011a734c67dcaf36e79a6d229e91a1be0c726584c"
+file = "mods/underground-villages.pw.toml"
+hash = "c0ed49929ef95c28638466009a675e2fe0ba7555d08606baeb26fae33f5b2b30"
 metafile = true
 
 [[files]]

@@ -231,8 +231,8 @@ hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
 
 [[files]]
-file = "mods/underground-villages.pw.toml"
-hash = "c0ed49929ef95c28638466009a675e2fe0ba7555d08606baeb26fae33f5b2b30"
+file = "mods/underground-village,-stoneholm.pw.toml"
+hash = "adacee706a90ec7d2555c49d2a9417e5167e593ff3742e17ee57a94caaffb6f1"
 metafile = true
 
 [[files]]

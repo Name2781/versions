@@ -119,6 +119,11 @@ hash = "96b0da15913458b2d1aa9ba1f95bb55ea34867625e0018f4c765562dab055313"
 metafile = true
 
 [[files]]
+file = "mods/dimension-blocker.pw.toml"
+hash = "255fbe48cc4b7dee0b7960208e29024561381fddade59a802d60897676c22394"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "e3b2e790bceef54c9837a9651d65a37e2224cdf3b0c3a86730dd3f32ced3a33c"
 metafile = true

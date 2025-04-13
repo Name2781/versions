@@ -1,0 +1,13 @@
+name = "Minceraft S3"
+author = "robieless"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0960a70568ab780de3ffd9f99b4b25ea3b248464a13dc3bb668d4b942d23ad98"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"

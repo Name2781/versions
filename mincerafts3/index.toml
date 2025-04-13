@@ -6,7 +6,7 @@ hash = "973f3426289304b4ce6cf77ffeea8e16ddfb392ec68f31e24d8095f5605b3729"
 
 [[files]]
 file = "kubejs/server_scripts/no_diamond_armor.js"
-hash = "68a2495fcf70db4ef6d6afb18c919c7a0b72c01079eb9f1df2b30c864af25535"
+hash = "36497d952284143d6011c4f766fbeaa2c008a0eab97fa081dd2df3e09f953ebf"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -360,4 +360,4 @@ metafile = true
 
 [[files]]
 file = "scripts/disableArmorRecipes.zs"
-hash = "3f9832f37d7458533bc410cbfbf65d112060722e4692ce694e26a5f234e5b51b"
+hash = "63ac355f903ac8abd817342e0d395aa7882bb9291e7a28b3ee4764ad36064019"

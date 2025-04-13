@@ -264,6 +264,11 @@ hash = "2435a64d99cd836d97cd1712d289071d3e6c8f13fd048b58e5abc2ddd939180b"
 metafile = true
 
 [[files]]
+file = "mods/origins.pw.toml"
+hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
+metafile = true
+
+[[files]]
 file = "mods/our-villager-discounts.pw.toml"
 hash = "7357cc9a816168ef408259558efae7037b9e4eee1051d29c2481bfd33e021e70"
 metafile = true

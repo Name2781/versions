@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/create_enchantment_industry-server.toml"
-hash = "973f3426289304b4ce6cf77ffeea8e16ddfb392ec68f31e24d8095f5605b3729"
+hash = "3becf591c9766a3bc1c181180c423b28872522eac0c8a339a888691a6ac62da2"
 
 [[files]]
 file = "kubejs/server_scripts/no_diamond_armor.js"
-hash = "90a86c6299ae1a98d0d65a33b1524622a71dd0cf1672849613fdc950fc69e691"
+hash = "36f2b9c75905d0e6a49dc7e9cec8ea5c76888dcb9595603feb601183c5ceda42"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -380,4 +380,4 @@ metafile = true
 
 [[files]]
 file = "scripts/disableArmorRecipes.zs"
-hash = "63ac355f903ac8abd817342e0d395aa7882bb9291e7a28b3ee4764ad36064019"
+hash = "669f6dd4b3be726546667cb1f476937d032ac02f279629044ca507e6a727ca61"

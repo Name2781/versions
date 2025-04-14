@@ -6,7 +6,7 @@ hash = "973f3426289304b4ce6cf77ffeea8e16ddfb392ec68f31e24d8095f5605b3729"
 
 [[files]]
 file = "kubejs/server_scripts/no_diamond_armor.js"
-hash = "36497d952284143d6011c4f766fbeaa2c008a0eab97fa081dd2df3e09f953ebf"
+hash = "90a86c6299ae1a98d0d65a33b1524622a71dd0cf1672849613fdc950fc69e691"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -234,6 +234,11 @@ hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "1f5ae1f4f54dc839782958176ee8c5151515d6163a89fcff2b1bce5576619e8f"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "a5306de623d85768f0f5660ecf15182bcdce376a993ba5a224fb0e8e542c2ddb"
 metafile = true
@@ -251,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "837915662c472b9672e4a5bed43343a37917fb947b3b86c929bdc73024497fc3"
+metafile = true
+
+[[files]]
+file = "mods/morejs.pw.toml"
+hash = "34d3a4818233d1503c47535f3aeb265f37ceae7c92cc4e5c2b253c8c3af037ac"
 metafile = true
 
 [[files]]

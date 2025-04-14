@@ -22,4 +22,35 @@ EntityEvents.spawned(event => {
         entity.setFeetArmorItem(Item.of('minecraft:iron_boots'));
     }
 });
-  
+
+MoreJSEvents.playerStartTrading((event) => {
+    event.forEachOffers((o, i) => {
+        let item = o.getOutput().getItem();
+        if (item) {
+            switch (item.id) {
+                case "minecraft:diamond_helmet":
+                    o.setOutput(Item.of('minecraft:iron_helmet'));
+                    break;
+                
+                case "minecraft:diamond_chestplate":
+                    o.setOutput(Item.of('minecraft:iron_chestplate'));
+                    break;
+
+                case "minecraft:diamond_leggings":
+                    o.setOutput(Item.of('minecraft:iron_leggings'));
+                    break;
+
+                case "minecraft:diamond_boots":
+                    o.setOutput(Item.of('minecraft:iron_boots'));
+                    break;
+            }
+        }
+    });
+});
+
+LootJS.modifiers((event) => {
+    event.addLootTableModifier(/.*/).replaceLoot("minecraft:diamond_helmet", "minecraft:iron_helmet");
+    event.addLootTableModifier(/.*/).replaceLoot("minecraft:diamond_chestplate", "minecraft:iron_chestplate");
+    event.addLootTableModifier(/.*/).replaceLoot("minecraft:diamond_leggings", "minecraft:iron_leggings");
+    event.addLootTableModifier(/.*/).replaceLoot("minecraft:diamond_boots", "minecraft:iron_boots");
+});

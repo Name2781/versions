@@ -90,7 +90,7 @@
       "origins:burning_wrath": true,
       "origins:hotblooded": true,
       "origins:water_vulnerability": true,
-      "origins:flame_particles": true,
+      "origins:flame_particles": true, 
       "origins:damage_from_snowballs": true,
       "origins:damage_from_potions": true
     },

@@ -53,5 +53,5 @@ LootJS.modifiers((event) => {
     event.addLootTableModifier(/.*/).replaceLoot("minecraft:diamond_chestplate", "minecraft:iron_chestplate");
     event.addLootTableModifier(/.*/).replaceLoot("minecraft:diamond_leggings", "minecraft:iron_leggings");
     event.addLootTableModifier(/.*/).replaceLoot("minecraft:diamond_boots", "minecraft:iron_boots");
-});
+}); 
  

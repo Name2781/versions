@@ -1,0 +1,13 @@
+name = "Sculkling Origin"
+filename = "Sculkling-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2wqICE0p/versions/7oKo8Ngc/Sculkling-1.20.jar"
+hash-format = "sha512"
+hash = "777aa3d3d6711f80a819b3a889e64c51c34f716b8ed5721c690bbb41079067506c39c3b4963cfdde501424bdce7d1df43a8cbc4683d17e49c862b404ff280722"
+
+[update]
+[update.modrinth]
+mod-id = "2wqICE0p"
+version = "7oKo8Ngc"

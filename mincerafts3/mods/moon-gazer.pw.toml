@@ -1,0 +1,13 @@
+name = "Origins: Moon Gazer"
+filename = "origins-moon-gazer-4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cqUHD0Wb/versions/t8E4HMm3/origins-moon-gazer-4.0.jar"
+hash-format = "sha512"
+hash = "605cab8b452a596c30714a73f8b689cdae0417bb42cb00dd4a633951714cddb18fed1b052fecb3f7ac846a892303c50c7f0c8ef0d633be7da30ee49f17bb3871"
+
+[update]
+[update.modrinth]
+mod-id = "cqUHD0Wb"
+version = "t8E4HMm3"

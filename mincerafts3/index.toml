@@ -5,6 +5,10 @@ file = "config/create_enchantment_industry-server.toml"
 hash = "3becf591c9766a3bc1c181180c423b28872522eac0c8a339a888691a6ac62da2"
 
 [[files]]
+file = "config/origins_server.json"
+hash = "928fd0b2ceaeb88ff9c9cc91a27e671b344455a854645708ce64e79557b0c848"
+
+[[files]]
 file = "kubejs/server_scripts/no_diamond_armor.js"
 hash = "36f2b9c75905d0e6a49dc7e9cec8ea5c76888dcb9595603feb601183c5ceda42"
 
@@ -29,11 +33,6 @@ hash = "971cc8d8f2d07262a8de83696b1be17428b3b8a7de7ceadb6108d1b1ca0e2f3f"
 metafile = true
 
 [[files]]
-file = "mods/azurelib.pw.toml"
-hash = "851741ce6061b1914a07e3a88950e44b06c251c2eb4c11d462423890695f397c"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
@@ -41,6 +40,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
+metafile = true
+
+[[files]]
+file = "mods/canine-origin.pw.toml"
+hash = "fe207137e29e50755fa65b0d40287ec8699a6a0c346bf5013260f573ec86078c"
 metafile = true
 
 [[files]]
@@ -259,6 +263,11 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
+file = "mods/moon-gazer.pw.toml"
+hash = "215ad1685b7df096e69e894cb5e9124b0d7e1a61aff9ded56bb517c390b10305"
+metafile = true
+
+[[files]]
 file = "mods/morejs.pw.toml"
 hash = "34d3a4818233d1503c47535f3aeb265f37ceae7c92cc4e5c2b253c8c3af037ac"
 metafile = true
@@ -289,6 +298,11 @@ hash = "d4468887af2c277449fecba6323f41f2a911258617df59b1d9f1ab12ead3d6d8"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
 metafile = true
@@ -301,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
+metafile = true
+
+[[files]]
+file = "mods/sculkling-origin.pw.toml"
+hash = "d66782f7d1927a409351e34f80e3d6a43d94f7f914a142ab3dbd85a0223c9c82"
 metafile = true
 
 [[files]]

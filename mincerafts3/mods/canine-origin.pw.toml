@@ -1,0 +1,13 @@
+name = "Canine Origin"
+filename = "canineorigin-mc1.20.1-v1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TloBvthQ/versions/eMhczezn/canineorigin-mc1.20.1-v1.2.jar"
+hash-format = "sha512"
+hash = "d95eb865fa070101c9601dacd8ce77afe263c7285a5d8c6856a528dfd401bc96e754be93899bfb86dd0579279054eb49166ea1c271ea98d600ee7d2eb1862873"
+
+[update]
+[update.modrinth]
+mod-id = "TloBvthQ"
+version = "eMhczezn"

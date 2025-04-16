@@ -203,6 +203,11 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "a51d746fdd98949eb47b83a9da95a1121fd7163601e901d986e57b1d2aca7950"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
 metafile = true
@@ -318,6 +323,11 @@ hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "5f2db1aa1879d5aba0fe845cd94a775366052299acffde2c45c6e88790ab6406"
+metafile = true
+
+[[files]]
 file = "mods/sculkling-origin.pw.toml"
 hash = "d66782f7d1927a409351e34f80e3d6a43d94f7f914a142ab3dbd85a0223c9c82"
 metafile = true
@@ -345,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "689aa0e715b22a92073bc2d514f211565891dbbc6e2e5514facf5e6ffa74b97c"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "c95bcf2a24250de6b9abceb73777a4e1e3f2c5af157176c371f6ed84d067b987"
 metafile = true
 
 [[files]]

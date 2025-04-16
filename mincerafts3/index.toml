@@ -9,6 +9,10 @@ file = "config/origins_server.json"
 hash = "2fa61e667f77374cdbcff0c04c00059d306374bca75535125943c676b1e19627"
 
 [[files]]
+file = "config/rightclickharvest.json5"
+hash = "77f12df1ef63e7896490e97e106b11405f88630edf8e1195cece54fbab0b5c19"
+
+[[files]]
 file = "kubejs/server_scripts/no_diamond_armor.js"
 hash = "820ff8c2ee0b91b5e609a72bea598e576c7f0f9a3a001d8f03fcbb77d7149573"
 
@@ -235,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "6fec21029a5aa873dd30c2f7b6e58cf768b2b8c756840d61f37ac923952626a6"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
 metafile = true
 
 [[files]]

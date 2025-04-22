@@ -1,7 +1,9 @@
 EntityEvents.spawned(event => {
     let entity = event.entity;
     if (!entity) return;
-    if (entity.id == "minecraft:falling_block") return;
+
+    const MobEntity = Java.loadClass('net.minecraft.entity.mob.MobEntity');
+    if (!(entity.native instanceof MobEntity)) return;
 
     let headItem = entity.getHeadArmorItem();
     if (headItem && headItem.id === 'minecraft:diamond_helmet') {

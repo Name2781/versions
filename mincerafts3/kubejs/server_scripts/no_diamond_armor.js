@@ -1,6 +1,7 @@
 EntityEvents.spawned(event => {
     let entity = event.entity;
     if (!entity) return;
+    if (entity.id == "minecraft:falling_block") return;
 
     let headItem = entity.getHeadArmorItem();
     if (headItem && headItem.id === 'minecraft:diamond_helmet') {

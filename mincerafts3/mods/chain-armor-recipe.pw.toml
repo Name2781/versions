@@ -1,0 +1,13 @@
+name = "Chain Armor Recipe"
+filename = "CraftableChainArmor-1.20.1-0.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6hNNZ0Et/versions/qVuIYJt3/CraftableChainArmor-1.20.1-0.1-Fabric.jar"
+hash-format = "sha512"
+hash = "b4a42b1c94cabd9043e92a1b1ba0022e7691036724dab8c7c1678a5b4a6014441bc5f21d99bf2da1b721315b5e68e1422cde5121e6fa057dcfcdb79d9d13764e"
+
+[update]
+[update.modrinth]
+mod-id = "6hNNZ0Et"
+version = "qVuIYJt3"

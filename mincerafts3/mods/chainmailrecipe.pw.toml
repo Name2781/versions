@@ -1,0 +1,13 @@
+name = "Chainmail Recipe"
+filename = "ChainmailRecipe(FABRIC_1.20).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yi6LdQ2P/versions/ePNyMRkK/ChainmailRecipe%28FABRIC_1.20%29.jar"
+hash-format = "sha512"
+hash = "226fc31acb9ef83ef272b6f0c14055a39f8ad5956e48f5a070e1c1508e5a20290e1f7e387f8420a021fbb4f95eb3e3f917717d908db1caf492a9893a6ba452df"
+
+[update]
+[update.modrinth]
+mod-id = "Yi6LdQ2P"
+version = "ePNyMRkK"

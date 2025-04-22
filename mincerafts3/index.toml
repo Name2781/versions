@@ -52,6 +52,11 @@ hash = "fe207137e29e50755fa65b0d40287ec8699a6a0c346bf5013260f573ec86078c"
 metafile = true
 
 [[files]]
+file = "mods/chainmailrecipe.pw.toml"
+hash = "2cb22e3f4553d78864e4f67ea41b98225fae3c49f107e4f0ee386a0efa0430db"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a0a8867b65a0f4c156b8b31ff43ff90877f37a8e343823a4440576455f28f595"
 metafile = true

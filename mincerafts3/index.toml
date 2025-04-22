@@ -14,7 +14,7 @@ hash = "77f12df1ef63e7896490e97e106b11405f88630edf8e1195cece54fbab0b5c19"
 
 [[files]]
 file = "kubejs/server_scripts/no_diamond_armor.js"
-hash = "752a42f802484029afc8a8449517b2fa0ada5575bff98ee8f876bb3ab9dfc540"
+hash = "3edcce50f2c9d616344f3e9d1ef21a1026ff2e0f6469221f0e8b5d597038f2cf"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

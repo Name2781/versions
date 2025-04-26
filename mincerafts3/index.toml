@@ -377,6 +377,11 @@ hash = "d37e117518c1344e16f7d3f4b66dea334e217ff453f1b0f3307282072c483409"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "689aa0e715b22a92073bc2d514f211565891dbbc6e2e5514facf5e6ffa74b97c"
 metafile = true

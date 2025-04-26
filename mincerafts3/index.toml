@@ -87,6 +87,11 @@ hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "a30726b64c6922cd85d0a2d0b4946cbf1c2c5bee9d167a21ad66e27a8359b4bf"
 metafile = true
@@ -274,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
+file = "mods/mobtimizations.pw.toml"
+hash = "8b3772892d5e87a10c9535e22e40bbfae00dda4fc1faf6250e0eef9f577da840"
 metafile = true
 
 [[files]]

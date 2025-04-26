@@ -202,6 +202,11 @@ hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "18505a786dfcdfdbbb27dbba601e48e28298ace70a040dccbfecbfb84f8fdf12"
+metafile = true
+
+[[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "1e7626658f151f660110a788c0e3771f08a023992a62c38aacb272fd9559dd94"
 metafile = true
@@ -279,11 +284,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
-metafile = true
-
-[[files]]
-file = "mods/mobtimizations.pw.toml"
-hash = "8b3772892d5e87a10c9535e22e40bbfae00dda4fc1faf6250e0eef9f577da840"
 metafile = true
 
 [[files]]

@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
+hash = "17d588c49f6c3bf2ad659c6d3fe073704a6e15c34bf69f70109a6b762e6ea0c3"
 metafile = true
 
 [[files]]
@@ -399,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "c95bcf2a24250de6b9abceb73777a4e1e3f2c5af157176c371f6ed84d067b987"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "4ff185e2004890b8859b2ea1be2a7ecc9e923fde8702073f8c19ac1a299b5caa"
 metafile = true
 
 [[files]]

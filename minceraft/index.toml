@@ -8,6 +8,7 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "a1e7268a9c90dd490f8cea23af5526ff22e8ddde2475afab7946e3af82b05e49"
+<<<<<<< HEAD
 metafile = true
 
 [[files]]
@@ -23,6 +24,8 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "851741ce6061b1914a07e3a88950e44b06c251c2eb4c11d462423890695f397c"
+=======
+>>>>>>> b618ada96569c1179ed8d15bb3e937847f4dc5a4
 metafile = true
 
 [[files]]

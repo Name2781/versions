@@ -192,11 +192,6 @@ hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
 metafile = true
 
 [[files]]
-file = "mods/herdspanic.pw.toml"
-hash = "a4540dd8807f53182939edae5f114e801097433370a3b11a3c19a5e940d7b6c1"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
@@ -234,11 +229,6 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "65c8fdccdf3bc226990f77876ee3236fa425d4211d898e270eb51c7c2225f25a"
-metafile = true
-
-[[files]]
-file = "mods/just-mob-heads.pw.toml"
-hash = "65d8ec718465261b87d01dad40c9d913bcf72c50896b77098eeb36695704ac78"
 metafile = true
 
 [[files]]

@@ -13,6 +13,10 @@ file = "config/rightclickharvest.json5"
 hash = "77f12df1ef63e7896490e97e106b11405f88630edf8e1195cece54fbab0b5c19"
 
 [[files]]
+file = "config/tradingpost-server.toml"
+hash = "8d66ca075a85ec8ff932e615179cced750487f13011e7f9568ccfe94a171dada"
+
+[[files]]
 file = "kubejs/server_scripts/no_diamond_armor.js"
 hash = "3edcce50f2c9d616344f3e9d1ef21a1026ff2e0f6469221f0e8b5d597038f2cf"
 
@@ -389,11 +393,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
-metafile = true
-
-[[files]]
-file = "mods/spawn-animations.pw.toml"
-hash = "658f2f78263d779d2c988d548b09af015c4ef8e51819acf5f18bb1bfd1c5ee82"
 metafile = true
 
 [[files]]

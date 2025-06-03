@@ -149,6 +149,11 @@ hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
 metafile = true
 
 [[files]]
+file = "mods/create-proximity.pw.toml"
+hash = "f7b860dc0bda7908b296be6a12c4b5a186337e1df28b8bbb29211094c92019ef"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true

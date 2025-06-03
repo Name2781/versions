@@ -1,0 +1,13 @@
+name = "Create: Proximity"
+filename = "createproximity-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xUAwyqU0/versions/HRiBxaqK/createproximity-1.0.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "462092661211c2139f496740c4498420a0614443b765237005ace42ff5edc3528ecf3c69806a380bb3badaad2cbba5415253374c8d017ba03866ce2f2101344d"
+
+[update]
+[update.modrinth]
+mod-id = "xUAwyqU0"
+version = "HRiBxaqK"

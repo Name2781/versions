@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/audioplayer/audioplayer-server.properties"
+hash = "fd21aa5d52d3589eecb0febcf202b0986777cbb83be63bfb822f480a52179d42"
+
+[[files]]
 file = "config/create_enchantment_industry-server.toml"
 hash = "973f3426289304b4ce6cf77ffeea8e16ddfb392ec68f31e24d8095f5605b3729"
 
@@ -38,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "971cc8d8f2d07262a8de83696b1be17428b3b8a7de7ceadb6108d1b1ca0e2f3f"
+metafile = true
+
+[[files]]
+file = "mods/banhammer.pw.toml"
+hash = "542fac150babe88c3be7a6e52c4c528a4ae635e90a899fe868e8898ce6cd6098"
 metafile = true
 
 [[files]]

@@ -5,6 +5,10 @@ file = "config/audioplayer/audioplayer-server.properties"
 hash = "fd21aa5d52d3589eecb0febcf202b0986777cbb83be63bfb822f480a52179d42"
 
 [[files]]
+file = "config/banhammer/config.json"
+hash = "e7216d8c7dd959c59c227d5c24fce6ecfeab528923a04b53f1670148c8019bbf"
+
+[[files]]
 file = "config/create_enchantment_industry-server.toml"
 hash = "973f3426289304b4ce6cf77ffeea8e16ddfb392ec68f31e24d8095f5605b3729"
 

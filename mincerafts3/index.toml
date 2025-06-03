@@ -214,6 +214,11 @@ hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "d7e1f07e094b46b52827ca186b9977edb8c195857c2092ea2d739531f55fcb31"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
@@ -406,6 +411,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
 metafile = true
 
 [[files]]

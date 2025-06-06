@@ -495,4 +495,4 @@ metafile = true
 
 [[files]]
 file = "scripts/disableArmorRecipes.zs"
-hash = "63ac355f903ac8abd817342e0d395aa7882bb9291e7a28b3ee4764ad36064019"
+hash = "5d075eb3a4d90b54e284ade4f45c8b0f6f5a97741cc63b5a2803643c70bab508"

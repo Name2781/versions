@@ -429,6 +429,11 @@ hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "636c00b554aff2c14ae25deb83b7e80109a9cb4f0a12f05e5eb5f5b7879de46a"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
 metafile = true

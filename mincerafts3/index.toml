@@ -309,6 +309,11 @@ hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
 metafile = true
 
 [[files]]
+file = "mods/magnetic.pw.toml"
+hash = "8af0d0bdc4b750c3528e0961c6e8734d5420ea70f13ff1038fbb99d74e08d5ea"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
 metafile = true

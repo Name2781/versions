@@ -1,0 +1,13 @@
+name = "magnetic (telekinesis)"
+filename = "magnetic-3.2.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LLfA8jAD/versions/y7Wn3RQn/magnetic-3.2.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "f2de24605eb595f4f9f8a09b69139bced14b3f46a5dd0c15871b800df3538536d8d8ac0266c6cf13f187a2b7189ba6d75c8dce9556655ec868fd7eb14f15c5b9"
+
+[update]
+[update.modrinth]
+mod-id = "LLfA8jAD"
+version = "y7Wn3RQn"

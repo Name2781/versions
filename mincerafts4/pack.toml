@@ -1,0 +1,13 @@
+name = "Minceraft S4"
+author = "robieless"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1bb83d525ff1f43cb9dffd5a24201736f8f4ade663dc210494ac1cbff64b9481"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.179"

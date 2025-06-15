@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "blacklisted_items": [
+    "minecraft:diamond_helmet",
+	"minecraft:diamond_chestplate",
+	"minecraft:diamond_leggings",
+	"minecraft:diamond_boots",
+    "minecraft:netherite_helmet",
+	"minecraft:netherite_chestplate",
+	"minecraft:netherite_leggings",
+	"minecraft:netherite_boots",
+	"create:netherite_diving_helmet",
+    "create:netherite_backtank",
+    "create:netherite_diving_boots"
+  ]
+}

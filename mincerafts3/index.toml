@@ -13,6 +13,10 @@ file = "config/create_enchantment_industry-server.toml"
 hash = "973f3426289304b4ce6cf77ffeea8e16ddfb392ec68f31e24d8095f5605b3729"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "01fe9eee2720c27bb6b1eea562ace106a2a4645cd7e851af2e4ea895bcfe1336"
+
+[[files]]
 file = "config/origins_server.json"
 hash = "2fa61e667f77374cdbcff0c04c00059d306374bca75535125943c676b1e19627"
 

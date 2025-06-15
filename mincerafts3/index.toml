@@ -25,10 +25,6 @@ file = "config/tradingpost-server.toml"
 hash = "8d66ca075a85ec8ff932e615179cced750487f13011e7f9568ccfe94a171dada"
 
 [[files]]
-file = "kubejs/server_scripts/no_diamond_armor.js"
-hash = "3edcce50f2c9d616344f3e9d1ef21a1026ff2e0f6469221f0e8b5d597038f2cf"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "377cded4389b5e133510dae4023f004e5bc250370c7279da26dbd7b45bd0b7e9"
 metafile = true
@@ -111,11 +107,6 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "17d588c49f6c3bf2ad659c6d3fe073704a6e15c34bf69f70109a6b762e6ea0c3"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "a30726b64c6922cd85d0a2d0b4946cbf1c2c5bee9d167a21ad66e27a8359b4bf"
 metafile = true
 
 [[files]]
@@ -254,6 +245,11 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "5dbbebb1be98bfa055096c70fcbf668553b736ad2f9d20a5ff2d2cafc40968c1"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "a51d746fdd98949eb47b83a9da95a1121fd7163601e901d986e57b1d2aca7950"
 metafile = true
@@ -274,11 +270,6 @@ hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "6fec21029a5aa873dd30c2f7b6e58cf768b2b8c756840d61f37ac923952626a6"
 metafile = true
@@ -296,11 +287,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
-metafile = true
-
-[[files]]
-file = "mods/lootjs.pw.toml"
-hash = "1f5ae1f4f54dc839782958176ee8c5151515d6163a89fcff2b1bce5576619e8f"
 metafile = true
 
 [[files]]
@@ -344,11 +330,6 @@ hash = "215ad1685b7df096e69e894cb5e9124b0d7e1a61aff9ded56bb517c390b10305"
 metafile = true
 
 [[files]]
-file = "mods/morejs.pw.toml"
-hash = "34d3a4818233d1503c47535f3aeb265f37ceae7c92cc4e5c2b253c8c3af037ac"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
@@ -386,11 +367,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
 
 [[files]]
@@ -507,7 +483,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "08df3c74504169a35bd5dfcd4bb5e2ad92a7a3fba453621005a6e59a5078efd9"
 metafile = true
-
-[[files]]
-file = "scripts/disableArmorRecipes.zs"
-hash = "5d075eb3a4d90b54e284ade4f45c8b0f6f5a97741cc63b5a2803643c70bab508"

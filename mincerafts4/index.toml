@@ -253,6 +253,11 @@ hash = "e1186ddc953e1446af3ba58cbb80ddd0d2315c1571ed5438f5c03953edf0b656"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "0ac978306f2edfe2cbe991901ba84a766cffd3bf900b42587d88b5aae34670c5"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
 metafile = true

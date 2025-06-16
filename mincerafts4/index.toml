@@ -108,6 +108,11 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
+file = "mods/craftinuum.pw.toml"
+hash = "e9b19b4370e37b1e86b1a73be4cb9adf01e3653f91e85d70e60166b5c050fb4f"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "c52bf730148b87f31057eae0786ff215525d76341c2c93c672629cb1b6c2d1f0"
 metafile = true
@@ -283,6 +288,11 @@ hash = "12e4601519ca5fb940e9658b71f2218f2a06c41847b714978e1568435688858d"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/ly-veinminer-enchantment.pw.toml"
 hash = "156b1bf3505dbf7e80c4a8aba7139d3eff8221fe3b9af67cea852b6e9721c573"
 metafile = true
@@ -380,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Craftinuum"
+filename = "craftinuum-1.1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qaREjCDW/versions/ZxKfrZgy/craftinuum-1.1.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "2f3800b4f0876fdc30aa752702209b53bd64b98d341cbd171534ac18b31ac53c1efa9652c71240248ea4774a4b929455be1a2a3f21d0dba70ba6cc7e08da1f64"
+
+[update]
+[update.modrinth]
+mod-id = "qaREjCDW"
+version = "ZxKfrZgy"

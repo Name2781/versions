@@ -298,11 +298,6 @@ hash = "12e4601519ca5fb940e9658b71f2218f2a06c41847b714978e1568435688858d"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
-metafile = true
-
-[[files]]
 file = "mods/ly-veinminer-enchantment.pw.toml"
 hash = "156b1bf3505dbf7e80c4a8aba7139d3eff8221fe3b9af67cea852b6e9721c573"
 metafile = true

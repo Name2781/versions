@@ -293,16 +293,6 @@ hash = "12e4601519ca5fb940e9658b71f2218f2a06c41847b714978e1568435688858d"
 metafile = true
 
 [[files]]
-file = "mods/ly-veinminer-enchantment.pw.toml"
-hash = "156b1bf3505dbf7e80c4a8aba7139d3eff8221fe3b9af67cea852b6e9721c573"
-metafile = true
-
-[[files]]
-file = "mods/magnetic-enchantment.pw.toml"
-hash = "ce0f27a84a1a0cc1b6bad1a8d46de6923edc1cc5261d9037278064acec17487d"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
@@ -335,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "3369ef3b2d68c6e54827e38e27d749444765b8da9be3202dc1139bba7f16a70b"
+metafile = true
+
+[[files]]
+file = "mods/ore-harvester.pw.toml"
+hash = "d24b63a488c7807499b18fe76eda1ecd3ad8b787ded557f9a6412dadc66ba4d4"
 metafile = true
 
 [[files]]
@@ -410,6 +405,11 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "16f417ed44c348280988e3c52c409a6f5c1ff22e2a8fcfb9f473fc261b93992c"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
 metafile = true
 
 [[files]]

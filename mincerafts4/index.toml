@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "blazeandcaves-advancements-pack.pw.toml"
+hash = "181a8bf4486edae452b29419b9a4f8583549bf747858fcccc2fbb2b22dd44439"
+metafile = true
+
+[[files]]
 file = "config/immersive_optimization.json"
 hash = "b657c2b27581ff10311557a2074a971bad61cf97aad5fe4bfa68d9e99d58f9c7"
 

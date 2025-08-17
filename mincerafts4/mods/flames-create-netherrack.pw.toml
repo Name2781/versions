@@ -1,0 +1,13 @@
+name = "Flame's Create netherrack"
+filename = "flame_create_netherrack-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IJH796i7/versions/oN2GQl3M/flame_create_netherrack-1.0.0.jar"
+hash-format = "sha512"
+hash = "b16f935233b89bb59cf2f0aa15c490a6f33ee4829250fe714f12331cccdfc87a8ce6a73cca6ce5a12ceb66426889ecfa6359eb70650cb6c8987ddb8b54f2863e"
+
+[update]
+[update.modrinth]
+mod-id = "IJH796i7"
+version = "oN2GQl3M"

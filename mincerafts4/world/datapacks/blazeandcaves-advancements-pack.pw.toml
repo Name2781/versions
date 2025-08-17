@@ -1,6 +1,6 @@
 name = "BlazeandCave's Advancements Pack"
 filename = "BlazeandCave's Advancements Pack 1.17.2.zip"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

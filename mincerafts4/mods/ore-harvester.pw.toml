@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Xiv4r347/versions/PZBcS2Yz/oreharvester-1.21.1-1.5.jar"
-hash-format = "sha512"
-hash = "65be29f010f58dbeea944c11d7ee8c4bb8176951f80f54421a5ff4cac7bf83d08696b87e6e7aa7814015129948886b67836b42ba30ad183a5be21e5f8de0c515"
+hash-format = "sha256"
+hash = "682fa79ca07a864d7bd3f6d08ef5a94fe9b882bac817f8364af3ead3327ecf5a"
 
 [update]
 [update.modrinth]

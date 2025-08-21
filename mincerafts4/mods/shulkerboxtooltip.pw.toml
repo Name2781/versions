@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/2M01OLQq/versions/psdIbUbg/shulkerboxtooltip-neoforge-5.1.6%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "1fbeadb91721c55f1c86e2c4f9ac4bf30c3a7b2044e08e81ce4386a270dcb83d888db6a1b5c57728e979a90df507b8175f907056edf79f5c872b2693b23a8e01"
+hash-format = "sha256"
+hash = "ba35526d3dafb9b65bfb84bce9a2348da22355cac65f49fcd3ae554204010689"
 
 [update]
 [update.modrinth]

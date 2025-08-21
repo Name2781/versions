@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yo1bGdBx/versions/xWCZpKMt/dragonkind-evolved-1.5.3.jar"
-hash-format = "sha512"
-hash = "7322ad26bfed508a690416927a69d9eef776d87614b194109d62af7684d9b1e8fa6eb96d74779852194cc4084a153a1d71216a4c32a794ecd97390a3b2884f16"
+hash-format = "sha256"
+hash = "fc6c5a3250f6101420f1ea403a27a4b1fa958e2171e13b037785ede80f73a00d"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/o6qsdrrQ/versions/5J6WsndO/zume-1.1.4.jar"
-hash-format = "sha512"
-hash = "a8d922294ff8633a1e8872e9cedc1a125027692906c6ee1a828aaf517f7774d0f494dc8879f53a90fe7200b3c46890a725f83d2f2aa3aa4aa59d1bdd4c3dae12"
+hash-format = "sha256"
+hash = "64146b2380994358e7c48906bf11ba21df65f3d8ff83e158083faa8b31332203"
 
 [update]
 [update.modrinth]

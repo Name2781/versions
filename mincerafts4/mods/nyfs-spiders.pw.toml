@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dOGM7ccu/versions/jBsD0s73/nyfsspiders-neoforge-1.21.1-2.3.2.jar"
-hash-format = "sha512"
-hash = "65704d3103a7aad981204a18e79029d5f338ee97ac0aed3449ca5ffd90d5f58638726ef5686143a14617daab2e0a7b2434a0b3e6ebc2b0829aec9add71c841a8"
+hash-format = "sha256"
+hash = "7845043f7bf56b572ad4aaa2ea3bf936a3ce2fac6731058214f007948ecf1f38"
 
 [update]
 [update.modrinth]

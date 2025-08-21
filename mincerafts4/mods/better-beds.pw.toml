@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/aAzXjG13/betterbeds-1.4.0.jar"
-hash-format = "sha512"
-hash = "950a61a1d60cb28b97f9d6e83a78b7943986ae10dba0d30f2f61a4967f9acdc6c8548d4d5b7446c6695f3145583d50bb10e06555d24fabca7e3816381e397517"
+hash-format = "sha256"
+hash = "b588132ad68c9a2d22b68724dd8ea252449aaa42c159a194c122ea4c4714970e"
 
 [update]
 [update.modrinth]

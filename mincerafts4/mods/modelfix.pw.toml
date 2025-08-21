@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/QdG47OkI/versions/X2U8ceG9/modelfix-1.21-1.10.jar"
-hash-format = "sha512"
-hash = "647cab9a1bed84e10cfe77732a66bdfe116a6371dcceadcf896083654f7ab39542df4152674b5a3a653e3b36f517f5c1bff4c25db37dd789df9eeb1e1d799c07"
+hash-format = "sha256"
+hash = "ee774b72135450ef9db1c7a75837304f30d05c3541e3a348c4f5769ab0f04912"
 
 [update]
 [update.modrinth]

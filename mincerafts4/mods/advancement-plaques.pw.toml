@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/9NM0dXub/versions/OWylG33I/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar"
-hash-format = "sha512"
-hash = "94724dd77d005f0a189c4843efcc2800cf3d3e01d1f1ac184c6f6ad7c921aec508e93fa0bfac0e641a74c1629d4e5e4d06b8c1a3e0d8e63f97db89b2f879c106"
+hash-format = "sha256"
+hash = "a24674330b8de59a02e0ebe4dd81fcff15d90e8c1cdcc32980d73c1cab050933"
 
 [update]
 [update.modrinth]

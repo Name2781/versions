@@ -3,8 +3,8 @@ filename = "BlazeandCave's Advancements Pack 1.17.2.zip"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "9567d2b906ecb04bbdb97443754a162fc0fa6ca8"
+hash-format = "sha256"
+hash = "2df9b3928c960814187d6b54da904dbce05b54818801a675c7b56d101922d510"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/1KiJRrTg/versions/tnP4eg1K/screenshot-to-clipboard-neoforge-1.0.10.jar"
-hash-format = "sha512"
-hash = "70621a29e84be664eabac05f5fc08f3960726e1311dd29de9bb88c104dea3f49f481f02cef24cae0d44608b4b3b6c4102fea8b2093b4f0cf97611316866ae547"
+hash-format = "sha256"
+hash = "4e980758da4346cd63dd50f4f44bd46fab4279f71578e26a7c5c49c858ca9d47"
 
 [update]
 [update.modrinth]

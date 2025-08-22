@@ -232,6 +232,11 @@ hash = "3931194da703e949f57f242f4f40f17e3a3aaf25dcb9df861b07502f80a2b02f"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "c4027b8071cc6dfc7f0d49e702a5e25b1e36841e50acba1e699f308be156b8f2"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "2756ce49983f6f003b8cc82e6241cb0589e39b5ae819083f4e3d7cebad3e26bf"
 metafile = true

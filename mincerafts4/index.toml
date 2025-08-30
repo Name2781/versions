@@ -277,6 +277,11 @@ hash = "f6ebebf2fecd990cc51792fce4eeeade28d224572fee0df230cfa3b961d74c3e"
 metafile = true
 
 [[files]]
+file = "mods/inv-view-forge.pw.toml"
+hash = "a40e68d8848a871a5d53ebbc5c73db8cc1dfe76273a6bcef2a0e0d4d8b9299d8"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db4a43961cb5ab823da0e27fbe5487a7e277a61cee5c194f42e1edcc498dfe0d"
 metafile = true

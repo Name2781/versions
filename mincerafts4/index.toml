@@ -257,6 +257,11 @@ hash = "7e2b59817638c256e22b5dc11d93017b2ce32241ec1e97dd067e19395aa24d03"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "91ac310d8536931e35ca489098f8f78b42ecf0ea4527a94a9abed92a2fe4ad9e"
+metafile = true
+
+[[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "7fa8a7e71b978fe0e9e3d9bef29ad8e96f3a463936dc663b5f2d4821fa35e31f"
 metafile = true
@@ -424,6 +429,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be6f9f60b705e1be3722b3cef7d8d6c4a16fb31f0cad0efdcca83636ec1271b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
 
 [[files]]

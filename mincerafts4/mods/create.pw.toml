@@ -3,11 +3,6 @@ filename = "create-1.21.1-6.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LNytGWDc/versions/tS7ygzAE/create-1.21.1-6.0.6.jar"
+url = "https://raw.githubusercontent.com/Name2781/versions/refs/heads/main/create-1.21.1-6.0.6.jar"
 hash-format = "sha256"
-hash = "2d403500cd550db452a975ec3d4ba21b6097360d4dd575311112fe322055b1ee"
-
-[update]
-[update.modrinth]
-mod-id = "LNytGWDc"
-version = "tS7ygzAE"
+hash = "f376dcb470e4da6db374ebe6ce8a501a2700a67e1fdc45bc1c500c851dd58733"

@@ -3,6 +3,6 @@ filename = "create-1.21.1-6.0.6.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Name2781/versions/refs/heads/main/create-1.21.1-6.0.6.jar"
+url = "https://github.com/Name2781/versions/releases/download/Create/create-1.21.1-6.0.6.jar"
 hash-format = "sha256"
 hash = "f376dcb470e4da6db374ebe6ce8a501a2700a67e1fdc45bc1c500c851dd58733"

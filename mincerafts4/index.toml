@@ -382,6 +382,11 @@ hash = "6719083345bde635cd6048d8438f75eef56937c3b5438c1294e382ba52bf5c02"
 metafile = true
 
 [[files]]
+file = "mods/player-trade.pw.toml"
+hash = "3ea812a9641dd774c294e341ae31ea91c81ccc09a6932b71f0c6b41b15e66e70"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "7ffbc9f4356e44a7f1e94183cfa62a9a62217a5f5a0ef2962692379895c82d23"
 metafile = true
